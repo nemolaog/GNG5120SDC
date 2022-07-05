@@ -4,6 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+### `Function`
+Fixed right/top bar 
+Left side Gallery
+Partial enlargement of product
+Response Page fixed mobile phone
+etc.
+
 In the project directory, you can run:
 
 ### `npm start`
